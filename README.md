@@ -2,7 +2,7 @@
 
 
 ![](https://img.shields.io/build/passing.png?color=brightgreen)
-![](https://img.shields.io/pypi/v0.101.png?color=brightgreen)
+![](https://img.shields.io/version/v0.101.png?color=brightgreen)
 ![](https://img.shields.io/python/v3.6.png?color=blue)
 ![](https://img.shields.io/license/MIT.png?color=blue)
 
