@@ -1,4 +1,5 @@
 numpy
 pytest
 nonlineartemppy
+pandas
 unittest2
