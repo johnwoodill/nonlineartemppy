@@ -1,2 +1,0 @@
-from nonlineartemppy.calculations import degree_days
-from nonlineartemppy.calculations import degree_time
