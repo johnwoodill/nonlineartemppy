@@ -1,3 +1,4 @@
+import unittest2
 import nonlineartemppy.calculations as nltemp
 import pandas as pd
 
@@ -31,3 +32,4 @@ def test_degree_time():
 
 	# Test
 	assert 0.02918 == retarray
+
