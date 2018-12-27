@@ -17,7 +17,7 @@ Installation
 ------------
 
 ``` python
-# Install through pip
+# Install through pip (make sure pypi-install is installed)
 pip install nonlineartemppy
 ```
 
