@@ -8,12 +8,11 @@ def degree_days(data, threshold):
     Keyword arguments
     data - pandas DataFrame with tmax and tmin in columns
     threshold - specific thresholds to integrate over'''
-    
-    
+        
     retdat = data
     retdat = retdat.sort_values('date', ascending=True)
 
-    # Check for tmax and tmin
+    # Check for tmax and tmin columns
     tmax_bool = retdat.columns.str.contains('tmax')
     tmin_bool = retdat.columns.str.contains('tmin')
     
