@@ -2,8 +2,7 @@
 
 [![Travis_CI_Badge](https://travis-ci.org/johnwoodill/nonlineartemppy.svg?branch=master)](https://travis-ci.org/johnwoodill/nonlineartemppy#)
 ![]()
-![](https://img.shields.io/python/v3.6.png?color=blue)
-![](https://img.shields.io/license/MIT.png?color=blue)
+
 
 
 Overview
